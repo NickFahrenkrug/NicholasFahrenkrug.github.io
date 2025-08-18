@@ -1,2 +1,1 @@
-# NicholasFahrenkrug.github.io
- website2.0
+# Solo-website
